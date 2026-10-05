@@ -14,7 +14,8 @@ Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manièr
   - APIs/bibliothèques graphiques :
     - OpenGL : ~4 mois d'expérience, connaissances - `vertex buffers`, `vertex arrays`, `element buffers`, `shaders`, `textures`
     - GLFW : ~4 mois d'expérience, connaissances - fonctions basiques de chargement de fenêtre comme `glfwCreateWindow();` ou `glfwWindowHint();`
-    - stb_image : ~3,5 mois d'expérience - 
+    - stb_image : ~3,5 mois d'expérience - chargement d'images de tout format avec des fonctions comme `stbi_load();`
+    - 
   - 
 
 
