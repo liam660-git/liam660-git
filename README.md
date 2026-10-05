@@ -13,11 +13,11 @@ Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manièr
   - `variables`, `functions`, `if/else statements` et la majorité des bases
   - `classes`, `OOP` _(object-oriented-programming)_, `constructors`/`destructors`, `inheritance` et un peu de `polymorphism`
   - APIs/bibliothèques graphiques :
-    - `OpenGL` : ~4 mois d'expérience - `vertex buffers`, `vertex arrays`, `element buffers`, `shaders`, `textures`
-    - `GLFW` : ~4 mois d'expérience - fonctions basiques de chargement de fenêtre comme `glfwCreateWindow();` ou `glfwWindowHint();`
-    - `stb_image` : ~3,5 mois d'expérience - chargement d'images de tout format avec des fonctions comme `stbi_load();`
-    - `GLM` : fonctions mathématiques - `glm::mat*();`, `glm::translate();`, `glm::scale();`
-    - `assimp` : ~2 mois d'expérience - chargement de modèles 3D, triangulation des faces,
+    - **OpenGL** : ~4 mois d'expérience - `vertex buffers`, `vertex arrays`, `element buffers`, `shaders`, `textures`
+    - **GLFW** : ~4 mois d'expérience - fonctions basiques de chargement de fenêtre comme `glfwCreateWindow();` ou `glfwWindowHint();`
+    - **stb_image** : ~3,5 mois d'expérience - chargement d'images de tout format avec des fonctions comme `stbi_load();`
+    - **GLM** : ~ 3,5 mois d'expérience - fonctions mathématiques comme `glm::mat*();`, `glm::translate();`, `glm::scale();`, `glm::rotate();`
+    - **assimp** : ~2 mois d'expérience - importation de modèles 3D, triangulation des faces
   - 
 
 
