@@ -7,7 +7,7 @@ Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manièr
 ### Mes compétences :
 
 - **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de déboggage...
-- **C++** : Environ 1 an d'expérience Pourquoi ai-je choisi cette langue de programmation ? C'est parce que trouve que c'est un bon milieu entre la gestion manuelle de la mémoire et le développement des jeux-vidéos.
+- **C++** : Environ 1 an d'expérience. Pourquoi ai-je choisi ce langage de programmation ? C'est parce que trouve que c'est un bon milieu entre la gestion manuelle de la mémoire et le développement des jeux-vidéos, et aussi parce que ce n'est un langage très difficile.
   
   #### Mes connaissances :
   - `variables`, `declaration keywords`, `functions`, `if/else statements`, `C-style arrays`, `standard library (std)`, `standard library includes (iostream, string, vector, memory, utility...)`, `pointers`, `smart pointers (std::weak_ptr, std::shared_ptr, std::unique_ptr)` et la majorité des bases
