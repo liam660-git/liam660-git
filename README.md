@@ -1,4 +1,6 @@
-## Portfolio personnel 
+## Portfolio personnel - Mes projets (C++, Blender, Roblox Studio)
+
+Je débute GitHub et c'est ici que je mettrais mon code source et/ou mes créations.
 
 <!--
 **liam660-git/liam660-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
