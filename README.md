@@ -9,12 +9,13 @@ Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manièr
 - C++ : J'ai 1 an d'expérience en C++. Pourquoi ai-je choisi cette langue de programmation ? C'est parce que trouve que c'est un bon milieu entre la gestion manuelle de la mémoire et le développement des jeux-vidéos.
   
   Mes connaissances :
-- `variables`, `functions`, `if/else statements` et la majorité des bases
-- `classes`, `OOP` _(object-oriented-programming)_, `constructors`/`destructors`, `inheritance` et un peu de `polymorphism`
-- api/bibliothèques graphiques :
-      - OpenGL : 4 mois d'expérience, connaissances : `vertex buffers`, `vertex arrays`, `element buffers`, `shaders`, `textures`
-      - GLFW : 4 mois d'expérience, connaissances : fonctions basiques de chargement de fenêtre comme `glfwCreateWindow();`
-- 
+  - `variables`, `functions`, `if/else statements` et la majorité des bases
+  - `classes`, `OOP` _(object-oriented-programming)_, `constructors`/`destructors`, `inheritance` et un peu de `polymorphism`
+  - APIs/bibliothèques graphiques :
+    - OpenGL : ~4 mois d'expérience, connaissances - `vertex buffers`, `vertex arrays`, `element buffers`, `shaders`, `textures`
+    - GLFW : ~4 mois d'expérience, connaissances - fonctions basiques de chargement de fenêtre comme `glfwCreateWindow();` ou `glfwWindowHint();`
+    - stb_image : ~3,5 mois d'expérience - 
+  - 
 
 
 Je débute GitHub et c'est ici que je mettrais mon code source et mes créations.
