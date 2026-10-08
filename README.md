@@ -20,9 +20,7 @@ Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manièr
     - **Assimp** : ~2 mois d'expérience - importation de modèles 3D, triangulation des faces
   - e
 - **Lua/Roblox Studio** : Environ 3 ans d'expérience dans les deux domaines. Ces derniers temps, je n'y touche plus trop à cause des mises-à-jour qui faisaient fonctionner mon code différemment ou des produits payants m'empêchant de faire certaines choses. Mais c'était un très beau départ pour le développement de jeux-vidéos.
-  #### Mes connaissances :
-  - Pratiquement toutes les bases : `variables`, `functions`, `tables`, `types`, `nil`, `math.*() functions`
-  - `metatables`
+- **Blender** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui est bien plus puissant comme programme de 3D.
 
 
 Je débute GitHub et c'est ici que je mettrais mon code source et mes créations.
