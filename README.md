@@ -4,7 +4,7 @@
 
 Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manière dont fonctionnent les jeux-vidéos.
 
-### Mes compétences :
+### Mes talents :
 
 - **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de déboggage...
 - **C++** : Environ 1 an d'expérience. Pourquoi ai-je choisi ce langage de programmation ? C'est parce que trouve que c'est un bon milieu entre la gestion manuelle de la mémoire et le développement des jeux-vidéos, et aussi parce que ce n'est un langage très difficile.
@@ -21,6 +21,9 @@ Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manièr
   - e
 - **Lua/Roblox Studio** : Environ 3 ans d'expérience dans les deux domaines. Ces derniers temps, je n'y touche plus trop à cause des mises-à-jour qui faisaient fonctionner mon code différemment ou des produits payants m'empêchant de faire certaines choses. Mais c'était un très beau départ pour le développement de jeux-vidéos.
 - **Blender** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui est bien plus puissant comme programme de 3D.
+  #### Mes connaissances :
+    - insertion d'objets, modification des transformations, maîtrise de l'`Object mode`
+    - édition des sommets, arêtes et faces en `Edit mode`, maîtrise des outils comme `extrude`, `inset`, `bevel`, `loop cut`, `knife/bisect tool`, `spin`, `edge slide`, etc
 
 
 Je débute GitHub et c'est ici que je mettrais mon code source et mes créations.
