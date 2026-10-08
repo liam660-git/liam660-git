@@ -18,7 +18,6 @@ Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manièr
     - **stb_image** : ~3,5 mois d'expérience - chargement d'images de tout format avec des fonctions comme `stbi_load();`
     - **GLM** : ~ 3,5 mois d'expérience - fonctions mathématiques comme `glm::mat*();`, `glm::translate();`, `glm::scale();`, `glm::rotate();`
     - **Assimp** : ~2 mois d'expérience - importation de modèles 3D, triangulation des faces
-  - e
 - **Lua/Roblox Studio** : Environ 3 ans d'expérience dans les deux domaines. Ces derniers temps, je n'y touche plus trop à cause des mises-à-jour qui faisaient fonctionner mon code différemment ou des produits payants m'empêchant de faire certaines choses. Mais c'était un très beau départ pour le développement de jeux-vidéos.
 - **Blender** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui est bien plus puissant comme programme de 3D. En ce moment, je recrée mon collège sur Blender, en prenant des notes sur un petit cahier, notamment pour les mesures et pour avoir un schéma que je peux utiliser comme référence pour faire un modèle à partir de cette image.
   #### Mes connaissances :
