@@ -23,6 +23,7 @@ Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manièr
   #### Mes connaissances :
     - insertion d'objets, modification des transformations, maîtrise de l'`Object mode`
     - édition des sommets, arêtes et faces en `Edit mode`, maîtrise des outils comme `extrude`, `inset`, `bevel`, `loop cut`, `knife/bisect`, `spin`, `edge slide`, etc
+    - rendus : `Cycles engine`, positionnement de la caméra, optimisations pour accélérer la vitesse de rendu, utilisation du GPU
 
 
 Je débute GitHub et c'est ici que je mettrais mon code source et mes créations.
