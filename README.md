@@ -6,7 +6,7 @@ Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manièr
 
 ### Mes talents :
 
-- **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de déboggage...
+- **Programmation en général** : commentaires, conventions de nommage de variable (`snake_case`, `camelCase`, `PascalCase`), notion de débogage...
 - **C++** : Environ 1 an d'expérience. Pourquoi ai-je choisi ce langage de programmation ? C'est parce que trouve que c'est un bon milieu entre la gestion manuelle de la mémoire et le développement des jeux-vidéos, et aussi parce que je trouve que ce n'est pas un langage de programmation très difficile.
   
   - #### Mes connaissances :
