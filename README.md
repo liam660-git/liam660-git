@@ -22,7 +22,8 @@ Je suis Liam, élève de 3e. Je suis passionné par l'informatique et la manièr
 - **Blender** : J'utilisais un programme appelé "Blockbench" depuis environ 3 ans, pour créer mes modèles, mais depuis quelques mois, j'ai décidé d'apprendre Blender, qui est bien plus puissant comme programme de 3D. En ce moment, je recrée mon collège sur Blender, en prenant des notes sur un petit cahier, notamment pour les mesures et pour avoir un schéma que je peux utiliser comme référence pour faire un modèle à partir de cette image.
   - #### Mes connaissances :
       - insertion d'objets, modification des transformations, maîtrise de l'`Object mode`
-      - édition des sommets, arêtes et faces en `Edit mode`, maîtrise des outils comme `extrude`, `inset`, `bevel`, `loop cut`, `knife/bisect`, `spin`, `edge slide`, etc
+      - édition des sommets, arêtes et faces en `Edit mode`, maîtrise des outils comme `extrude`, `inset`, `bevel`, `loop cut`, `knife/bisect`, `spin`, `edge slide`, etc.
+      - éclairage basique, `light linking`
       - rendus : `Cycles engine`, positionnement de la caméra, optimisations pour accélérer la vitesse de rendu, utilisation du GPU
 
 
